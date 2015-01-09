@@ -24,10 +24,12 @@ public final class Constants {
 
             "http://g.hiphotos.baidu.com/image/pic/item/622762d0f703918f166a7ded523d269759eec45a.jpg",
             "http://g.hiphotos.baidu.com/image/pic/item/0824ab18972bd407637e6e9578899e510fb30918.jpg",
-            "http://peoce.info/MediaServer/pic1.jpg",
-            "http://peoce.info/MediaServer/pic2.jpg",
-            "http://peoce.info/MediaServer/pic3.jpg",
-            "http://www.6188.com/show.php?pic=/flashAll/20101018/1287383489eTdUPP.jpg",
+            "http://pic.168pic.com/upload/2014/6/11/201461112819952.jpg",
+            "http://pic.168pic.com/upload/2013/9/4/2013941815522.jpg",
+            "http://pic.168pic.com/upload/2014/6/11/201461114222665.jpg",
+            "http://tupian.enterdesk.com/2014/xll/04/22/1/peiziqi4.JPG.680.510.jpg",
+            "http://tupian.enterdesk.com/2014/xll/04/22/1/peiziqi7.jpg.680.510.jpg",
+            "http://tupian.enterdesk.com/2014/xll/04/22/1/peiziqi8.jpg.680.510.jpg",
 //            "file:///sdcard/Universal Image Loader @#&=+-_.,!()~'%20.png", // Image from SD card with encoded symbols
 //            "assets://Living Things @#&=+-_.,!()~'%20.jpg", // Image from assets
 //            "drawable://" + R.drawable.ic_launcher, // Image from drawables
